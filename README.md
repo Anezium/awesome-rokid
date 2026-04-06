@@ -93,20 +93,20 @@ These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/ro
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
-| `EK Pilot` | `Game` | 3D flight mission game built around head-tilt controls. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EK Word Up` | `Learning App` | Hands-free vocabulary app for Rokid Glasses with shared study material support. | [Catalog](https://eung.pe.kr/rokid/) |
-| `TextHome` | `Launcher` | Simple text-first home launcher with wallpaper, clock, weather, battery, and text widgets. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EKReader` | `Reader App` | Clean and intuitive e-book reader for Rokid Glasses. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EK Live Cam` | `Camera App` | Live streaming utility for the Rokid glasses camera. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EKHome` | `Launcher` | Custom home launcher app for Rokid Glasses. | [Catalog](https://eung.pe.kr/rokid/) |
-| `Persona` | `Analysis App` | Face and palm reading app combining data-driven analysis with traditional references. | [Catalog](https://eung.pe.kr/rokid/) |
-| `Rokid Connect HUD (Glasses)` | `Navigation HUD` | Glasses-side navigation HUD app for T Map and Naver Map. | [Catalog](https://eung.pe.kr/rokid/) |
-| `Rokid Connect HUD (Phone)` | `Phone Companion` | Phone companion app for the Rokid Connect HUD navigation workflow. | [Catalog](https://eung.pe.kr/rokid/) |
-| `Text Translation` | `Translation App` | Offline English-Korean text translation app. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EK Zoom` | `Vision Utility` | Magnifier and telescope-style camera zoom app. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EK Arrow` | `Game` | Mini archery game for Rokid Glasses. | [Catalog](https://eung.pe.kr/rokid/) |
-| `EK Find Price` | `Shopping Utility` | Takes a photo and searches Naver for matching product prices. | [Catalog](https://eung.pe.kr/rokid/) |
-| `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Catalog](https://eung.pe.kr/rokid/) |
+| `EK Pilot` | `Game` | 3D flight mission game built around head-tilt controls. | [Details](https://eung.pe.kr/app-detail.html?app=ekpilot&type=RokidGlasses) |
+| `EK Word Up` | `Learning App` | Hands-free vocabulary app for Rokid Glasses with shared study material support. | [Details](https://eung.pe.kr/app-detail.html?app=EKWordUp&type=RokidGlasses) |
+| `TextHome` | `Launcher` | Simple text-first home launcher with wallpaper, clock, weather, battery, and text widgets. | [Details](https://eung.pe.kr/app-detail.html?app=TextHome&type=RokidGlasses) |
+| `EKReader` | `Reader App` | Clean and intuitive e-book reader for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKReader&type=RokidGlasses) |
+| `EK Live Cam` | `Camera App` | Live streaming utility for the Rokid glasses camera. | [Details](https://eung.pe.kr/app-detail.html?app=EKLiveCam&type=RokidGlasses) |
+| `EKHome` | `Launcher` | Custom home launcher app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKHome&type=RokidGlasses) |
+| `Persona` | `Analysis App` | Face and palm reading app combining data-driven analysis with traditional references. | [Details](https://eung.pe.kr/app-detail.html?app=Persona&type=RokidGlasses) |
+| `Rokid Connect HUD (Glasses)` | `Navigation HUD` | Glasses-side navigation HUD app for T Map and Naver Map. | [Details](https://eung.pe.kr/app-detail.html?app=RokidConnectHud2&type=RokidGlasses) |
+| `Rokid Connect HUD (Phone)` | `Phone Companion` | Phone companion app for the Rokid Connect HUD navigation workflow. | [Details](https://eung.pe.kr/app-detail.html?app=RokidConnectHud&type=RokidGlasses) |
+| `Text Translation` | `Translation App` | Offline English-Korean text translation app. | [Details](https://eung.pe.kr/app-detail.html?app=Trans&type=RokidGlasses) |
+| `EK Zoom` | `Vision Utility` | Magnifier and telescope-style camera zoom app. | [Details](https://eung.pe.kr/app-detail.html?app=zoom&type=RokidGlasses) |
+| `EK Arrow` | `Game` | Mini archery game for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKArrow&type=RokidGlasses) |
+| `EK Find Price` | `Shopping Utility` | Takes a photo and searches Naver for matching product prices. | [Details](https://eung.pe.kr/app-detail.html?app=EKFind&type=RokidGlasses) |
+| `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
 
 ### Infra and bridges
 
