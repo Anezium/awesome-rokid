@@ -120,6 +120,7 @@ These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/ro
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
 | `rokid-openvoice-sdk` | `Official SDK` | Official Rokid OpenVoice speech service SDK for Android and Linux platforms. | [Repo](https://github.com/rokid/rokid-openvoice-sdk) |
 | `rokid-docs` | `Documentation` | Community-maintained Rokid development docs covering SDKs, internals, hardware notes, and reverse-engineered references. | [Repo](https://github.com/buildwithfenna/rokid-docs) |
 
