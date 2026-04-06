@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/platform-Rokid%20Glasses-0f1514?style=for-the-badge" alt="Platform: Rokid Glasses" />
   <img src="https://img.shields.io/badge/focus-Apps%20%7C%20Tools%20%7C%20AI-1d7f5f?style=for-the-badge" alt="Focus: Apps, Tools, AI" />
   <img src="https://img.shields.io/badge/status-Community%20Curated-cfe8d6?style=for-the-badge" alt="Status: Community Curated" />
+  <img src="https://img.shields.io/badge/projects-50+-8b5cf6?style=for-the-badge" alt="50+ Projects" />
 </p>
 
 <p align="center">
@@ -16,25 +17,13 @@
 
 ---
 
-## Table of contents
+### Table of contents
 
-- [Why this exists](#why-this-exists)
-- [Scope](#scope)
-- [Directory](#directory)
-- [AI and assistants](#ai-and-assistants)
-- [Translation and communication](#translation-and-communication)
-- [Navigation and mobility](#navigation-and-mobility)
-- [Media and utilities](#media-and-utilities)
-- [Learning and experiments](#learning-and-experiments)
-- [Catalog apps by EUNG SOFT](#catalog-apps-by-eung-soft)
-- [Infra and bridges](#infra-and-bridges)
-- [Developer resources](#developer-resources)
-- [Add your project](#add-your-project)
-- [Missing something?](#missing-something)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
-## Why this exists
+## 💡 Why this exists
 
 Rokid projects are still scattered across personal repos, prototypes, hackathon builds, and side experiments.
 
@@ -45,11 +34,11 @@ This repo collects them in one clean index so developers, tinkerers, and curious
 - track what is already possible on the platform
 - share new projects with the community
 
-This is a community list, not an official Rokid catalog.
+> This is a community list, not an official Rokid catalog.
 
 ---
 
-## Scope
+## 📐 Scope
 
 Projects listed here should match at least one of these:
 
@@ -64,7 +53,7 @@ Projects listed here should match at least one of these:
 
 ## Directory
 
-### AI and assistants
+### 🤖 AI and assistants
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -79,7 +68,9 @@ Projects listed here should match at least one of these:
 | `rokid_ai_agent` | `Server Agent` | Smart scene agent system for Rokid AI glasses with search, translation, memory, and glasses control. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_agent) |
 | `rokid_ai_vision_rag` | `Vision Backend` | Multimodal visual analysis and RAG knowledge assistant for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_vision_rag) |
 
-### Translation and communication
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🌍 Translation and communication
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -87,7 +78,9 @@ Projects listed here should match at least one of these:
 | `rokid-spain-trip` | `Translation App` | Real-time translation app for Rokid AR glasses, built around travel use cases such as Spain or Italy trips. | [Repo](https://github.com/etdofreshai/rokid-spain-trip) |
 | `Rokid-VideoCall` | `Communication App` | WebRTC-based remote audio and video calling system designed for Rokid Glasses. | [Repo](https://github.com/njujiangxiang/Rokid-VideoCall) |
 
-### Navigation and mobility
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🧭 Navigation and mobility
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -99,7 +92,9 @@ Projects listed here should match at least one of these:
 | `Rokid_Subway` | `Transit App` | Voice-controlled subway navigation app for Rokid AR smart glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/Rokid_Subway) |
 | `Rokid_Wifi` | `Utility App` | WiFi connection tool for touchless Rokid AR glasses with gesture and offline voice input. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/Rokid_Wifi) |
 
-### Media and utilities
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🎵 Media and utilities
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -109,7 +104,9 @@ Projects listed here should match at least one of these:
 | `rokid-ssh-terminal` | `Developer Tool` | Glasses-native SSH terminal and tmux control surface for Rokid glasses. | [Repo](https://github.com/bzerk/rokid-ssh-terminal) |
 | `photoDel4rokidglasses` | `Utility App` | Simple utility to view and delete photos or videos directly on Rokid glasses. | [Repo](https://github.com/osagem/photoDel4rokidglasses) |
 
-### Learning and experiments
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🧪 Learning and experiments
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -119,9 +116,16 @@ Projects listed here should match at least one of these:
 | `rokid-mahjong-assistant` | `Glasses App` | Mahjong assistant adapted for Rokid AI glasses with camera recognition and AR suggestions. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-mahjong-assistant) |
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 
-### Catalog apps by EUNG SOFT
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
-These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/) and do not currently point to public source repos from this list.
+### 🏪 Catalog apps by EUNG SOFT
+
+<details>
+<summary>14 apps from the <a href="https://eung.pe.kr/rokid/">EUNG SOFT Rokid catalog</a> — click to expand</summary>
+
+<br>
+
+> These projects do not currently point to public source repos from this list.
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -140,13 +144,19 @@ These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/ro
 | `EK Find Price` | `Shopping Utility` | Takes a photo and searches Naver for matching product prices. | [Details](https://eung.pe.kr/app-detail.html?app=EKFind&type=RokidGlasses) |
 | `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
 
-### Infra and bridges
+</details>
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🔌 Infra and bridges
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `openclaw-rokid-glasses` | `Server Bridge` | SSE bridge that adapts Rokid AI App requests to an OpenAI-compatible OpenClaw stack. | [Repo](https://github.com/yi-john-huang/openclaw-rokid-glasses) |
 
-### Developer resources
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 📚 Developer resources
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -156,27 +166,26 @@ These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/ro
 | `rokid-openvoice-sdk` | `Official SDK` | Official Rokid OpenVoice speech service SDK for Android and Linux platforms. | [Repo](https://github.com/rokid/rokid-openvoice-sdk) |
 | `rokid-docs` | `Documentation` | Community-maintained Rokid development docs covering SDKs, internals, hardware notes, and reverse-engineered references. | [Repo](https://github.com/buildwithfenna/rokid-docs) |
 
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
 ---
 
-## Add your project
+## ✏️ Add your project
 
-Pull requests are welcome.
+Pull requests are welcome. If you built something for Rokid glasses, open a PR and add a row to the relevant section.
 
-If you built something for Rokid glasses, open a PR and add a row to the relevant section.
-
-Suggested format:
+**Format:**
 
 ```md
 | `Project Name` | `Type` | One short sentence explaining what it does. | [Repo](https://github.com/you/project) |
 ```
 
-Helpful additions in the repo you submit:
+**Bonus points if your repo includes:**
 
 - screenshots or short demo videos
 - install instructions
 - APK release artifacts when possible
 - device compatibility notes
-- a README that explains the project clearly
 
 ---
 
