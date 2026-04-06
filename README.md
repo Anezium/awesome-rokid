@@ -148,16 +148,6 @@ Helpful additions in the repo you submit:
 
 ---
 
-## Contribution guidelines
-
-- keep descriptions short and factual
-- only list repos that are meaningfully related to Rokid
-- prefer public source repos over dead download links
-- if a project is experimental, that is fine, but it should still be real
-- if a repo is archived or unmaintained, add a short note in the description
-
----
-
 ## Missing something?
 
 If you know a Rokid project that belongs here and it is not listed yet:
