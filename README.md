@@ -16,6 +16,25 @@
 
 ---
 
+## Table of contents
+
+- [Why this exists](#why-this-exists)
+- [Scope](#scope)
+- [Directory](#directory)
+- [AI and assistants](#ai-and-assistants)
+- [Translation and communication](#translation-and-communication)
+- [Navigation and mobility](#navigation-and-mobility)
+- [Media and utilities](#media-and-utilities)
+- [Learning and experiments](#learning-and-experiments)
+- [Catalog apps by EUNG SOFT](#catalog-apps-by-eung-soft)
+- [Infra and bridges](#infra-and-bridges)
+- [Developer resources](#developer-resources)
+- [Add your project](#add-your-project)
+- [Contribution guidelines](#contribution-guidelines)
+- [Missing something?](#missing-something)
+
+---
+
 ## Why this exists
 
 Rokid projects are still scattered across personal repos, prototypes, hackathon builds, and side experiments.
