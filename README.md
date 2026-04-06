@@ -19,7 +19,7 @@
 
 ### Table of contents
 
-[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
@@ -153,6 +153,20 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `openclaw-rokid-glasses` | `Server Bridge` | SSE bridge that adapts Rokid AI App requests to an OpenAI-compatible OpenClaw stack. | [Repo](https://github.com/yi-john-huang/openclaw-rokid-glasses) |
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🧰 Templates and demos
+
+| Project | Type | What it does | Link |
+| --- | --- | --- | --- |
+| `GlassKit` | `Dev Suite` | Open-source Rokid-first dev suite for building real-time, vision-enabled smart glasses apps. | [Repo](https://github.com/RealComputer/GlassKit) |
+| `GlassKit - Rokid Feature Demo` | `Example App` | Feature and control-pattern demo for Rokid Glasses, including voice commands and emulator-friendly input mapping. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-feature-demo) |
+| `GlassKit - Rokid OpenAI Realtime` | `Example App` | Vision-enabled voice assistant demo for Rokid Glasses using the OpenAI Realtime API over WebRTC. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-openai-realtime) |
+| `GlassKit - Rokid OpenAI Realtime + RF-DETR` | `Example App` | Rokid voice assistant demo that adds backend RF-DETR object detection for stronger visual understanding. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-openai-realtime-rfdetr) |
+| `GlassKit - Rokid Overshoot` | `Example App` | Live scene-description HUD for Rokid Glasses that streams camera video to Overshoot and displays inference text. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-overshoot) |
+| `GlassKit - Drink-making Coach` | `Example App` | Proactive Rokid Glasses assistant that combines Overshoot and OpenAI Realtime for drink-making guidance. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-overshoot-openai-realtime) |
+| `GlassKit - RF-DETR Speedrun HUD` | `Example App` | Object-detection speedrun HUD for Rokid Glasses with hands-free split timing and backend RF-DETR inference. | [Folder](https://github.com/RealComputer/GlassKit/tree/main/examples/rokid-rfdetr) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
