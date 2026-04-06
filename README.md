@@ -72,6 +72,12 @@ Projects listed here should match at least one of these:
 | `openclaw-rokid` | `Glasses App` | Direct WiFi OpenClaw client for Rokid AI Glasses, focused on voice-first wearable AI without a phone bridge. | [Repo](https://github.com/etdofreshai/openclaw-rokid) |
 | `NeuroGlasses` | `Phone + Glasses` | Experimental Rokid AI chat bridge with vision, ASR, TTS, and OpenAI-compatible API support. | [Repo](https://github.com/ECHO-HELLO-WORLD424/NeuroGlasses) |
 | `RokidAIAssistant` | `Phone + Glasses` | Open-source Android AI assistant for Rokid Glasses with voice control and intelligent query handling. | [Repo](https://github.com/zero2005x/RokidAIAssistant) |
+| `rokid-ar-agent` | `Server Agent` | ReAct + RAG multi-tool AI agent for Rokid AR glasses with SSE streaming output. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-ar-agent) |
+| `rokid-haitangui-agent` | `Voice Game Agent` | Voice-driven turtle soup reasoning game agent built for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-haitangui-agent) |
+| `rokid-leetcode-hot100-agent` | `Learning Agent` | Voice-first LeetCode Hot100 tutor for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-leetcode-hot100-agent) |
+| `rokid-resume-interviewer-agent` | `Interview Agent` | AI mock interviewer for Rokid AR glasses based on resume text or spoken self-introduction. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-resume-interviewer-agent) |
+| `rokid_ai_agent` | `Server Agent` | Smart scene agent system for Rokid AI glasses with search, translation, memory, and glasses control. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_agent) |
+| `rokid_ai_vision_rag` | `Vision Backend` | Multimodal visual analysis and RAG knowledge assistant for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_vision_rag) |
 
 ### Translation and communication
 
@@ -89,6 +95,9 @@ Projects listed here should match at least one of these:
 | `Rokid-Maps` | `Glasses App` | Standalone map and directions app for Rokid AI Glasses. | [Repo](https://github.com/chartmann1590/Rokid-Maps) |
 | `rokid-ar-navigation` | `Glasses App` | Native AR navigation app for Rokid AI Glasses with nearby search, voice destination search, and walking HUD. | [Repo](https://github.com/bcefghj/rokid-ar-navigation) |
 | `M365-Rokid-HUD` | `Mobility HUD` | BLE telemetry HUD for Xiaomi M365 scooters with encrypted communication and Rokid-facing display logic. | [Repo](https://github.com/zero2005x/M365-Rokid-HUD) |
+| `RokidSmartLife` | `Glasses App` | Local life and POI navigation app for Rokid AI glasses with D-pad controls. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/RokidSmartLife) |
+| `Rokid_Subway` | `Transit App` | Voice-controlled subway navigation app for Rokid AR smart glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/Rokid_Subway) |
+| `Rokid_Wifi` | `Utility App` | WiFi connection tool for touchless Rokid AR glasses with gesture and offline voice input. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/Rokid_Wifi) |
 
 ### Media and utilities
 
@@ -106,6 +115,9 @@ Projects listed here should match at least one of these:
 | --- | --- | --- | --- |
 | `Memora_rokid` | `Learning App` | Immersive language learning app for Rokid glasses with HUD study flows and AI-assisted memory tools. | [Repo](https://github.com/e7naq3y/Memora_rokid) |
 | `Rokid-DragonBallScouter` | `Glasses App` | Dragon Ball inspired scouter HUD with live face lock, pseudo-AR mode, and battle power reveal. | [Repo](https://github.com/Anezium/Rokid-DragonBallScouter) |
+| `rokid-lc-hot100` | `Learning App` | Offline LeetCode Hot100 study assistant designed for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-lc-hot100) |
+| `rokid-mahjong-assistant` | `Glasses App` | Mahjong assistant adapted for Rokid AI glasses with camera recognition and AR suggestions. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-mahjong-assistant) |
+| `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 
 ### Catalog apps by EUNG SOFT
 
@@ -139,6 +151,8 @@ These projects are listed on the [EUNG SOFT Rokid catalog](https://eung.pe.kr/ro
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
+| `rokid-glasses-analysis` | `Research Docs` | System analysis and reverse-engineering notes for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-analysis) |
+| `rokid-glasses-control` | `Control Tool` | ADB + scrcpy tooling to view and control Rokid AI glasses from macOS. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-control) |
 | `rokid-openvoice-sdk` | `Official SDK` | Official Rokid OpenVoice speech service SDK for Android and Linux platforms. | [Repo](https://github.com/rokid/rokid-openvoice-sdk) |
 | `rokid-docs` | `Documentation` | Community-maintained Rokid development docs covering SDKs, internals, hardware notes, and reverse-engineered references. | [Repo](https://github.com/buildwithfenna/rokid-docs) |
 
