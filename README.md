@@ -30,7 +30,6 @@
 - [Infra and bridges](#infra-and-bridges)
 - [Developer resources](#developer-resources)
 - [Add your project](#add-your-project)
-- [Contribution guidelines](#contribution-guidelines)
 - [Missing something?](#missing-something)
 
 ---
