@@ -177,7 +177,6 @@ Projects listed here should match at least one of these:
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
 | `rokid-glasses-analysis` | `Research Docs` | System analysis and reverse-engineering notes for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-analysis) |
 | `rokid-glasses-control` | `Control Tool` | ADB + scrcpy tooling to view and control Rokid AI glasses from macOS. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-control) |
-| `rokid-openvoice-sdk` | `Official SDK` | Official Rokid OpenVoice speech service SDK for Android and Linux platforms. | [Repo](https://github.com/rokid/rokid-openvoice-sdk) |
 | `rokid-docs` | `Documentation` | Community-maintained Rokid development docs covering SDKs, internals, hardware notes, and reverse-engineered references. | [Repo](https://github.com/buildwithfenna/rokid-docs) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
