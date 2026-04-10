@@ -99,6 +99,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid Lyrics` | `Phone + Glasses` | Streams synced song lyrics from an Android phone to Rokid glasses over Bluetooth. | [Repo](https://github.com/Anezium/Rokid-Lyrics) |
+| `hubu` | `Fitness HUD` | Rokid Glasses app that connects to BLE devices such as Garmin watches and displays live workout metrics like pace, heart rate, and cadence. | [Repo](https://github.com/hanabix/hubu) |
 | `Rokid Manager 1.5` | `System Utility` | Allows you to turn Wi-Fi on or off, add Bluetooth devices, install or uninstall apps, and clean up memory. | [Download](https://drive.google.com/file/d/1VIZ9gsBRQ06ySyBgqtbMLBBJIkfaZ05x/view) |
 | `Rokid Shell` | `Glasses App` | Native file explorer for Rokid glasses with APK install flow and local HTTP transfer server. | [Repo](https://github.com/Anezium/Rokid-Shell) |
 | `RokidAppMaker / GazeMou` | `Launcher / Input Tool` | Head-gesture cursor, wake mode, favorites, and app drawer utility for Rokid Glasses. | [Release](https://github.com/KUPdriveouter/RokidAppMaker/releases/tag/v1.6.0) |
