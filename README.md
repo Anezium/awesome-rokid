@@ -99,6 +99,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid Lyrics` | `Phone + Glasses` | Streams synced song lyrics from an Android phone to Rokid glasses over Bluetooth. | [Repo](https://github.com/Anezium/Rokid-Lyrics) |
+| `rokid-vibe-notify` | `Notification Bridge` | Minimal Mac-to-phone-to-glasses notification bridge that pushes Claude Code events and other alerts onto Rokid Glasses. | [Repo](https://github.com/GaryChangCN/rokid-vibe-notify) |
 | `hubu` | `Fitness HUD` | Rokid Glasses app that connects to BLE devices such as Garmin watches and displays live workout metrics like pace, heart rate, and cadence. | [Repo](https://github.com/hanabix/hubu) |
 | `Rokid Manager 1.5` | `System Utility` | Allows you to turn Wi-Fi on or off, add Bluetooth devices, install or uninstall apps, and clean up memory. | [Download](https://drive.google.com/file/d/1VIZ9gsBRQ06ySyBgqtbMLBBJIkfaZ05x/view) |
 | `Rokid Shell` | `Glasses App` | Native file explorer for Rokid glasses with APK install flow and local HTTP transfer server. | [Repo](https://github.com/Anezium/Rokid-Shell) |
@@ -117,6 +118,7 @@ Projects listed here should match at least one of these:
 | `rokid-lc-hot100` | `Learning App` | Offline LeetCode Hot100 study assistant designed for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-lc-hot100) |
 | `rokid-mahjong-assistant` | `Glasses App` | Mahjong assistant adapted for Rokid AI glasses with camera recognition and AR suggestions. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-mahjong-assistant) |
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
+| `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
