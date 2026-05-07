@@ -86,8 +86,8 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid-GMaps` | `Phone + Glasses` | Turn-by-turn navigation for Rokid AR glasses with optional Google provider support and transit mode. | [Repo](https://github.com/Anezium/Rokid-GMaps) |
-| `Rokid-Maps` | `Glasses App` | Standalone map and directions app for Rokid AI Glasses. | [Repo](https://github.com/chartmann1590/Rokid-Maps) |
-| `rokid-ar-navigation` | `Glasses App` | Native AR navigation app for Rokid AI Glasses with nearby search, voice destination search, and walking HUD. | [Repo](https://github.com/bcefghj/rokid-ar-navigation) |
+| `Rokid-Maps` | `Phone + Glasses` | Standalone map and directions app for Rokid AI Glasses. | [Repo](https://github.com/chartmann1590/Rokid-Maps) |
+| `rokid-ar-navigation` | `Glasses App` | Native AR navigation app for Rokid AI Glasses with nearby search, voice destination search, and walking HUD. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-ar-navigation) |
 | `M365-Rokid-HUD` | `Mobility HUD` | BLE telemetry HUD for Xiaomi M365 scooters with encrypted communication and Rokid-facing display logic. | [Repo](https://github.com/zero2005x/M365-Rokid-HUD) |
 | `RokidSmartLife` | `Glasses App` | Local life and POI navigation app for Rokid AI glasses with D-pad controls. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/RokidSmartLife) |
 | `Rokid_Subway` | `Transit App` | Voice-controlled subway navigation app for Rokid AR smart glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/Rokid_Subway) |
