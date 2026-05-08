@@ -100,6 +100,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid-APKs` | `Phone + Glasses` | Installs Android APKs on Rokid glasses from a phone using CXR-M, Hi Rokid CXR-L, Bluetooth SPP, or Wi-Fi LAN transfer modes. | [Repo](https://github.com/Anezium/Rokid-APKs) |
+| `OverlayRec` | `Glasses App` | Triggers Rokid AR screenshots and AR recording from the glasses with a two-finger gesture overlay. | [Repo](https://github.com/Anezium/OverlayRec) |
 | `Rokid Lyrics` | `Phone + Glasses` | Streams synced song lyrics from an Android phone to Rokid glasses over Bluetooth. | [Repo](https://github.com/Anezium/Rokid-Lyrics) |
 | `Rokid-Scribe` | `Phone + Glasses` | Captures voice notes on Rokid glasses, syncs them to a phone, transcribes them locally, and exports transcripts as TXT or PDF. | [Repo](https://github.com/Anezium/Rokid-Scribe) |
 | `rokid-vibe-notify` | `Notification Bridge` | Minimal Mac-to-phone-to-glasses notification bridge that pushes Claude Code events and other alerts onto Rokid Glasses. | [Repo](https://github.com/GaryChangCN/rokid-vibe-notify) |
