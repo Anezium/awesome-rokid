@@ -131,8 +131,6 @@ Projects listed here should match at least one of these:
 
 17 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/).
 
-> These projects do not currently point to public source repos from this list.
-
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `EK Pilot` | `Game` | 3D flight mission game built around head-tilt controls. | [Details](https://eung.pe.kr/app-detail.html?app=ekpilot&type=RokidGlasses) |
@@ -151,7 +149,7 @@ Projects listed here should match at least one of these:
 | `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
 | `DcimWebServer` | `File Utility` | Local DCIM web server for browsing or downloading captured media from Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=DcimWebServer&type=RokidGlasses) |
 | `YourVoice` | `Voice Utility` | Voice-focused utility app for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=YourVoice&type=RokidGlasses) |
-| `EKWeb` | `Browser App` | Lightweight web browsing app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKWeb&type=RokidGlasses) |
+| `EKWeb / Dew Browser` | `Browser App` | Lightweight web browsing app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKWeb&type=RokidGlasses) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
