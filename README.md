@@ -123,15 +123,13 @@ Projects listed here should match at least one of these:
 | `rokid-mahjong-assistant` | `Glasses App` | Mahjong assistant adapted for Rokid AI glasses with camera recognition and AR suggestions. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-mahjong-assistant) |
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 | `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
+| `RokidGames` | `Glasses App` | Retro-style mini-game collection for Rokid Glasses with monochrome pixel art, touchpad controls, and head-tracked gameplay. | [Repo](https://github.com/ARDings/RokidGames) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
 ### 🏪 Catalog apps by EUNG SOFT
 
-<details>
-<summary>14 apps from the <a href="https://eung.pe.kr/rokid/">EUNG SOFT Rokid catalog</a> — click to expand</summary>
-
-<br>
+17 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/).
 
 > These projects do not currently point to public source repos from this list.
 
@@ -151,8 +149,9 @@ Projects listed here should match at least one of these:
 | `EK Arrow` | `Game` | Mini archery game for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKArrow&type=RokidGlasses) |
 | `EK Find Price` | `Shopping Utility` | Takes a photo and searches Naver for matching product prices. | [Details](https://eung.pe.kr/app-detail.html?app=EKFind&type=RokidGlasses) |
 | `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
-
-</details>
+| `DcimWebServer` | `File Utility` | Local DCIM web server for browsing or downloading captured media from Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=DcimWebServer&type=RokidGlasses) |
+| `YourVoice` | `Voice Utility` | Voice-focused utility app for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=YourVoice&type=RokidGlasses) |
+| `EKWeb` | `Browser App` | Lightweight web browsing app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKWeb&type=RokidGlasses) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
