@@ -107,6 +107,7 @@ Projects listed here should match at least one of these:
 | `hubu` | `Fitness HUD` | Rokid Glasses app that connects to BLE devices such as Garmin watches and displays live workout metrics like pace, heart rate, and cadence. | [Repo](https://github.com/hanabix/hubu) |
 | `Rokid Manager 1.5` | `System Utility` | Allows you to turn Wi-Fi on or off, add Bluetooth devices, install or uninstall apps, and clean up memory. | [Download](https://drive.google.com/file/d/1VIZ9gsBRQ06ySyBgqtbMLBBJIkfaZ05x/view) |
 | `RokidGlassesAppCenter` | `Phone + Glasses` | Remote app manager that lists, launches, stops, installs, and uninstalls apps on Rokid Glasses from a phone companion app. | [Repo](https://github.com/TakanariShimbo/RokidGlassesAppCenter) |
+| `RokidGlassesReader` | `Phone App` | Android reading companion that captures on-screen text from phone apps such as WeChat Reader and streams it to Rokid Glasses in real time. Chinese-only UI. | [Repo](https://github.com/conclean/RokidGlassesReader) |
 | `Rokid Shell` | `Glasses App` | Native file explorer for Rokid glasses with APK install flow and local HTTP transfer server. | [Repo](https://github.com/Anezium/Rokid-Shell) |
 | `RokidAppMaker / GazeMou` | `Launcher / Input Tool` | Head-gesture cursor, wake mode, favorites, and app drawer utility for Rokid Glasses. | [Release](https://github.com/KUPdriveouter/RokidAppMaker/releases/tag/v1.6.0) |
 | `rokid-ssh-terminal` | `Developer Tool` | Glasses-native SSH terminal and tmux control surface for Rokid glasses. | [Repo](https://github.com/bzerk/rokid-ssh-terminal) |
