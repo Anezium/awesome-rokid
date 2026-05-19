@@ -58,6 +58,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Clawsses` | `Phone + Glasses` | Wearable AI interface for Rokid glasses powered by OpenClaw, with voice, camera, streaming chat, and TTS. | [Repo](https://github.com/dweddepohl/clawsses) |
+| `JSOS` | `Phone + Glasses` | Development-preview spatial interface for Rokid glasses and a local or private OpenClaw Gateway, with a phone core app, dedicated glasses HUD, voice input, sessions, TTS, and camera handoff. | [Repo](https://github.com/IWhatsskill/JSOS) |
 | `openclaw-rokid` | `Glasses App` | Direct WiFi OpenClaw client for Rokid AI Glasses, focused on voice-first wearable AI without a phone bridge. | [Repo](https://github.com/etdofreshai/openclaw-rokid) |
 | `NeuroGlasses` | `Phone + Glasses` | Experimental Rokid AI chat bridge with vision, ASR, TTS, and OpenAI-compatible API support. | [Repo](https://github.com/ECHO-HELLO-WORLD424/NeuroGlasses) |
 | `RokidAIAssistant` | `Phone + Glasses` | Open-source Android AI assistant for Rokid Glasses with voice control and intelligent query handling. | [Repo](https://github.com/zero2005x/RokidAIAssistant) |
