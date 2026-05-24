@@ -25,7 +25,7 @@
 
 ### Table of contents
 
-[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
@@ -170,6 +170,20 @@ Projects listed here should match at least one of these:
 | --- | --- | --- | --- |
 | `HassGlass` | `Home Assistant Bridge` | Design-stage HACS integration that aims to turn Rokid AR Glasses into a local Home Assistant Assist voice and HUD satellite, with notifications, gesture events, and glasses entities. | [Repo](https://github.com/constructorfleet/HassGlass) |
 | `openclaw-rokid-glasses` | `Server Bridge` | SSE bridge that adapts Rokid AI App requests to an OpenAI-compatible OpenClaw stack. | [Repo](https://github.com/yi-john-huang/openclaw-rokid-glasses) |
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🇨🇳 China / Lingzhu ecosystem
+
+Projects built around the Chinese Rokid Lingzhu platform. These may not work on global Rokid devices or accounts without access to Lingzhu custom agents.
+
+| Project | Type | What it does | Link |
+| --- | --- | --- | --- |
+| `rokid-xiaozhi` | `CN / CXR-S App` | Chinese Xiaozhi AI voice conversation app for Rokid glasses, built with the Rokid CXR-S SDK and a cyberpunk matrix-style UI. | [Repo](https://github.com/mdloverm/rokid-xiaozhi) |
+| `rokid-glasses-suite` | `CN / Lingzhu Suite` | Meta-suite for connecting Rokid Glasses and the Lingzhu platform to Home Assistant, OpenClaw, and Hermes/Rhasspy-style ecosystems. | [Repo](https://github.com/Hylouis233/rokid-glasses-suite) |
+| `rokid-ha-control-kit` | `CN / Home Assistant Bridge` | Home Assistant control service for Rokid and Lingzhu SSE flows, with natural language control, entity allowlists, service allowlists, and audit logging. | [Repo](https://github.com/Hylouis233/rokid-ha-control-kit) |
+| `rokid-lingzhu-openclaw` | `CN / OpenClaw Bridge` | Lingzhu-to-OpenClaw plugin that converts Lingzhu SSE requests into OpenClaw Chat Completions and streams responses back to the glasses. | [Repo](https://github.com/Hylouis233/rokid-lingzhu-openclaw) |
+| `rokid-hermes-connector` | `CN / Hermes Bridge` | Bridge from Rokid Glasses and Lingzhu SSE input to Home Assistant Conversation or Hermes/Rhasspy MQTT intent payloads. | [Repo](https://github.com/Hylouis233/rokid-hermes-connector) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
