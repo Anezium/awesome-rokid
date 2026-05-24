@@ -117,6 +117,7 @@ Projects listed here should match at least one of these:
 | `RokidGlassesAppCenter` | `Phone + Glasses` | Remote app manager that lists, launches, stops, installs, and uninstalls apps on Rokid Glasses from a phone companion app. | [Repo](https://github.com/TakanariShimbo/RokidGlassesAppCenter) |
 | `RokidGlassesReader` | `Phone App` | Android reading companion that captures on-screen text from phone apps such as WeChat Reader and streams it to Rokid Glasses in real time. Chinese-only UI. | [Repo](https://github.com/conclean/RokidGlassesReader) |
 | `Rokid Remote / Rokid Browser` | `Phone + Glasses` | Web browser for Rokid glasses controlled from an Android phone over Bluetooth, with trackpad input, scrolling, zoom, typing, bookmarks, history, WiFi management, and theater mode. | [Repo](https://github.com/Inplov/rokid-browser) |
+| `Rokidglasses-HUD` | `Glasses App` | Chinese head-up utility for Rokid Glasses that uses accessibility and motion sensors to wake the display on head tilt and show a small time/date overlay. | [Repo](https://github.com/HagridANG/Rokidglasses-HUD) |
 | `Rokid Shell` | `Glasses App` | Native file explorer for Rokid glasses with APK install flow and local HTTP transfer server. | [Repo](https://github.com/Anezium/Rokid-Shell) |
 | `RokidAppMaker / GazeMou` | `Launcher / Input Tool` | Head-gesture cursor, wake mode, favorites, and app drawer utility for Rokid Glasses. | [Release](https://github.com/KUPdriveouter/RokidAppMaker/releases/tag/v1.6.0) |
 | `rokid-ssh-terminal` | `Developer Tool` | Glasses-native SSH terminal and tmux control surface for Rokid glasses. | [Repo](https://github.com/bzerk/rokid-ssh-terminal) |
@@ -206,6 +207,7 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
+| `RokidAIGlassesUnityBridge` | `Unity Plugin` | Unity Android plugin wrapping Rokid CXR-L `client-l` so phone-based Unity apps can authenticate through Rokid AI App, capture glasses photo/audio streams, and drive CustomView UI. | [Repo](https://github.com/ARDings/RokidAIGlassesUnityBridge) |
 | `rokid-glasses-analysis` | `Research Docs` | System analysis and reverse-engineering notes for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-analysis) |
 | `rokid-glasses-control` | `Control Tool` | ADB + scrcpy tooling to view and control Rokid AI glasses from macOS. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-control) |
 | `rokid-private-tts-kit` | `Android Library` | Reusable Android client for the private Rokid Glasses TTS binder, with a minimal sample app for bind, speak, and stop checks. | [Repo](https://github.com/bzerk/rokid-private-tts-kit) |
