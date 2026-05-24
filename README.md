@@ -168,6 +168,7 @@ Projects listed here should match at least one of these:
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `HassGlass` | `Home Assistant Bridge` | Design-stage HACS integration that aims to turn Rokid AR Glasses into a local Home Assistant Assist voice and HUD satellite, with notifications, gesture events, and glasses entities. | [Repo](https://github.com/constructorfleet/HassGlass) |
 | `openclaw-rokid-glasses` | `Server Bridge` | SSE bridge that adapts Rokid AI App requests to an OpenAI-compatible OpenClaw stack. | [Repo](https://github.com/yi-john-huang/openclaw-rokid-glasses) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
