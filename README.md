@@ -141,7 +141,7 @@ Projects listed here should match at least one of these:
 
 ### 🏪 Catalog apps by EUNG SOFT
 
-17 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/).
+19 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/).
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -161,6 +161,8 @@ Projects listed here should match at least one of these:
 | `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
 | `DcimWebServer` | `File Utility` | Local DCIM web server for browsing or downloading captured media from Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=DcimWebServer&type=RokidGlasses) |
 | `YourVoice` | `Voice Utility` | Voice-focused utility app for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=YourVoice&type=RokidGlasses) |
+| `EK Timer` | `Timer Utility` | Timer utility for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=EKTimer&type=RokidGlasses) |
+| `EK Remover` | `Utility App` | Rokid Glasses utility app distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=EKRemover&type=RokidGlasses) |
 | `EKWeb / Dew Browser` | `Browser App` | Lightweight web browsing app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKWeb&type=RokidGlasses) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
