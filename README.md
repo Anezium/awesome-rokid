@@ -107,7 +107,9 @@ Projects listed here should match at least one of these:
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `R08-Access-Bridge` | `Phone + Glasses` | Uses the R08 smart ring as a navigation controller for Rokid Glasses, bridging ring input into glasses-friendly controls. | [Repo](https://github.com/Anezium/R08-Access-Bridge) |
 | `Rokid-APKs` | `Phone + Glasses` | Installs Android APKs on Rokid glasses from a phone using CXR-M, Hi Rokid CXR-L, Bluetooth SPP, or Wi-Fi LAN transfer modes. | [Repo](https://github.com/Anezium/Rokid-APKs) |
+| `RokidBrew` | `Phone App` | Community app store for Rokid AR glasses, with browsing, app details, update tracking, and install flows for phone, glasses, and combo apps. | [Repo](https://github.com/Anezium/RokidBrew) |
 | `OverlayRec` | `Glasses App` | Triggers Rokid AR screenshots and AR recording from the glasses with a two-finger gesture overlay. | [Repo](https://github.com/Anezium/OverlayRec) |
 | `Rokid Lyrics` | `Phone + Glasses` | Streams synced song lyrics from an Android phone to Rokid glasses over Bluetooth. | [Repo](https://github.com/Anezium/Rokid-Lyrics) |
 | `Rokid Live Studio` | `Phone + Glasses` | Streams the Rokid Glasses camera and microphone from an Android phone to YouTube or Twitch, with preview, encoding, RTMP publishing, and chat overlay support. | [Repo](https://github.com/Anezium/Rokid-Live-Studio) |
