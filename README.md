@@ -147,6 +147,7 @@ Projects listed here should match at least one of these:
 | `rokid-lc-hot100` | `Learning App` | Offline LeetCode Hot100 study assistant designed for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-lc-hot100) |
 | `rokid-mahjong-assistant` | `Glasses App` | Mahjong assistant adapted for Rokid AI glasses with camera recognition and AR suggestions. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-mahjong-assistant) |
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
+| `cafeglasspoc` | `YodaOS-Sprite POC` | Hackathon barista recipe-guidance prototype for Rokid smart glasses, using USB-C screen mirroring, transparent black background, and touchpad/tap step navigation. | [Repo](https://github.com/leopaul29/cafeglasspoc) |
 | `pua-simulator-glasses` | `Experience Prototype` | Multi-component Rokid glasses experience with first-person camera capture, cloud scene understanding, Dify agent orchestration, TTS/RTC voice interactions, and a companion web app. | [Repo](https://github.com/K-Drift/pua-simulator-glasses) |
 | `RokidInterviewCrusher` | `AIUI App` | Interview training and review assistant for Rokid AIUI, with short HUD hint cards, user-triggered recording, OpenAI-compatible model config, and structured post-interview feedback. | [Repo](https://github.com/shuyixiao-better/RokidInterviewCrusher) |
 | `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
@@ -189,6 +190,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `HassGlass` | `Home Assistant Bridge` | Design-stage HACS integration that aims to turn Rokid AR Glasses into a local Home Assistant Assist voice and HUD satellite, with notifications, gesture events, and glasses entities. | [Repo](https://github.com/constructorfleet/HassGlass) |
+| `meeting-helper-rokid` | `OpenClaw Bridge App` | Standalone Rokid AI Glasses meeting assistant that streams mic audio over WebSocket to an OpenClaw gateway for transcription, summaries, quick Q&A, and a minimal recording HUD. | [Repo](https://github.com/KeithHello/meeting-helper-rokid) |
 | `openclaw-rokid-glasses` | `Server Bridge` | SSE bridge that adapts Rokid AI App requests to an OpenAI-compatible OpenClaw stack. | [Repo](https://github.com/yi-john-huang/openclaw-rokid-glasses) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
@@ -204,6 +206,8 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | `rokid-ha-control-kit` | `CN / Home Assistant Bridge` | Home Assistant control service for Rokid and Lingzhu SSE flows, with natural language control, entity allowlists, service allowlists, and audit logging. | [Repo](https://github.com/Hylouis233/rokid-ha-control-kit) |
 | `rokid-lingzhu-openclaw` | `CN / OpenClaw Bridge` | Lingzhu-to-OpenClaw plugin that converts Lingzhu SSE requests into OpenClaw Chat Completions and streams responses back to the glasses. | [Repo](https://github.com/Hylouis233/rokid-lingzhu-openclaw) |
 | `rokid-hermes-connector` | `CN / Hermes Bridge` | Bridge from Rokid Glasses and Lingzhu SSE input to Home Assistant Conversation or Hermes/Rhasspy MQTT intent payloads. | [Repo](https://github.com/Hylouis233/rokid-hermes-connector) |
+| `rokid-hermes-bridge` | `CN / Hermes Bridge` | Bridge that connects Rokid AR glasses through the Lingzhu/Rizon SSE platform to a local Hermes Agent gateway, with voice dialogue, image input, context memory, and Cloudflare Tunnel deployment notes. | [Repo](https://github.com/xingdongcai/rokid-hermes-bridge) |
+| `Rokid-MeetMemo` | `CN / AIUI App` | Offline conversation-memory AIUI agent for Rokid AR glasses that turns spoken notes about people into relationship cards, follow-up tasks, and glanceable HUD recall. | [Repo](https://github.com/qrx-joe/Rokid-MeetMemo) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
