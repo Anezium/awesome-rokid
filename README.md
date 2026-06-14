@@ -64,6 +64,7 @@ Projects listed here should match at least one of these:
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `AssistBridge` | `Phone + Glasses` | Relays visible Gemini or Google Assistant answers from an Android phone to a Rokid glasses HUD using Accessibility capture and Global Hi Rokid CXR-L. | [Repo](https://github.com/Anezium/AssistBridge) |
+| `Rokid Claude` | `Glasses + Mac Relay` | Voice-control Claude Code running on a home Mac from Rokid Glasses, with local whisper.cpp STT, WebSocket relay, streamed agent progress, and on-glasses permission confirmation. | [Repo](https://github.com/williamlzz/Rokid_Claude) |
 | `Clawsses` | `Phone + Glasses` | Wearable AI interface for Rokid glasses powered by OpenClaw, with voice, camera, streaming chat, and TTS. | [Repo](https://github.com/dweddepohl/clawsses) |
 | `JSOS` | `Phone + Glasses` | Development-preview spatial interface for Rokid glasses and a local or private OpenClaw Gateway, with a phone core app, dedicated glasses HUD, voice input, sessions, TTS, and camera handoff. | [Repo](https://github.com/IWhatsskill/JSOS) |
 | `openclaw-rokid` | `Glasses App` | Direct WiFi OpenClaw client for Rokid AI Glasses, focused on voice-first wearable AI without a phone bridge. | [Repo](https://github.com/etdofreshai/openclaw-rokid) |
