@@ -145,6 +145,7 @@ Projects listed here should match at least one of these:
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 | `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
 | `RokidGames` | `Glasses App` | Retro-style mini-game collection for Rokid Glasses with monochrome pixel art, touchpad controls, and head-tracked gameplay. | [Repo](https://github.com/ARDings/RokidGames) |
+| `Rokid_Cube_Copilot` | `AIUI App` | Rubik's Cube solving coach for Rokid single-green Micro-LED glasses, with manual color-grid input, local CFOP solving, HUD arrows, and voice/keyboard step navigation. | [Repo](https://github.com/guiguihui/Rokid_Cube_Copilot) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
@@ -219,6 +220,7 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
+| `client-glasses` | `OS / Firmware Tooling` | Rokid AR glasses OS and firmware tooling with Android services, capture/file sync, tracing, power and touchpad daemons, wake-word assets, and rooted firmware build scripts. | [Repo](https://github.com/jaskier-os/client-glasses) |
 | `RokidAIGlassesUnityBridge` | `Unity Plugin` | Unity Android plugin wrapping Rokid CXR-L `client-l` so phone-based Unity apps can authenticate through Rokid AI App, capture glasses photo/audio streams, and drive CustomView UI. | [Repo](https://github.com/ARDings/RokidAIGlassesUnityBridge) |
 | `rokid-glasses-analysis` | `Research Docs` | System analysis and reverse-engineering notes for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-analysis) |
 | `rokid-glasses-control` | `Control Tool` | ADB + scrcpy tooling to view and control Rokid AI glasses from macOS. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-control) |
