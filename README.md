@@ -135,6 +135,7 @@ Projects listed here should match at least one of these:
 | `RokidAppMaker / GazeMou` | `Launcher / Input Tool` | Head-gesture cursor, wake mode, favorites, and app drawer utility for Rokid Glasses. | [Release](https://github.com/KUPdriveouter/RokidAppMaker/releases/tag/v1.6.0) |
 | `rokid-ssh-terminal` | `Developer Tool` | Glasses-native SSH terminal and tmux control surface for Rokid glasses. | [Repo](https://github.com/bzerk/rokid-ssh-terminal) |
 | `photoDel4rokidglasses` | `Utility App` | Simple utility to view and delete photos or videos directly on Rokid glasses. | [Repo](https://github.com/osagem/photoDel4rokidglasses) |
+| `Rokid Manga Viewer` | `Glasses App` | SZIP format manga viewer optimized for Rokid AR glasses (Note: Users need to manually upload ZIP files to `/sdcard/Android/data/com.example.rokidmangaviewer/files/MangaViewer/`) | [Repo](https://github.com/vyw00741/rokid-manga-viewer) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
