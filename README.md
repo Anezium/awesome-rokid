@@ -25,7 +25,7 @@
 
 ### Table of contents
 
-[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [AIUI agents](#-aiui-agents) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
@@ -80,6 +80,23 @@ Projects listed here should match at least one of these:
 | `rokid-resume-interviewer-agent` | `Interview Agent` | AI mock interviewer for Rokid AR glasses based on resume text or spoken self-introduction. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-resume-interviewer-agent) |
 | `rokid_ai_agent` | `Server Agent` | Smart scene agent system for Rokid AI glasses with search, translation, memory, and glasses control. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_agent) |
 | `rokid_ai_vision_rag` | `Vision Backend` | Multimodal visual analysis and RAG knowledge assistant for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid_ai_vision_rag) |
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🧠 AIUI agents
+
+AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug them.
+
+| Project | Type | What it does | Link |
+| --- | --- | --- | --- |
+| `Rokid-AIUI` | `AIUI Dev Kit` | Reference kit for contract-driven AIUI agent development on Rokid AI glasses, with HUD design rules, project templates, local debug guidance, and `.aix` packaging workflow. | [Repo](https://github.com/wangqioo/Rokid-AIUI) |
+| `rokid-aiui-lab` | `AIUI Lab` | Collection of Rokid Glasses and Lingzhu AIUI experiments, including QR scanning, beginner tutorials, QR code tooling, capability probes, and field notes. | [Repo](https://github.com/saibozhanzhang/rokid-aiui-lab) |
+| `rokid_aiui_logtool` | `AIUI Tool` | Standalone AIUI logging demo that posts glasses interaction logs to a local Node.js server and displays them live in a browser via SSE. | [Repo](https://github.com/MersiSun/rokid_aiui_logtool) |
+| `Rokid_Cube_Copilot` | `AIUI App` | Rubik's Cube solving coach for Rokid single-green Micro-LED glasses, with camera scanning, local min2phase solving, HUD arrows, and voice controls. | [Repo](https://github.com/guiguihui/Rokid_Cube_Copilot) |
+| `RokidInterviewCrusher` | `AIUI App` | Interview training and review assistant for Rokid AIUI, with short HUD hint cards, user-triggered recording, OpenAI-compatible model config, and structured post-interview feedback. | [Repo](https://github.com/shuyixiao-better/RokidInterviewCrusher) |
+| `Rokid-MeetMemo` | `AIUI App` | Offline conversation-memory AIUI agent for Rokid AR glasses that turns spoken notes about people into relationship cards, follow-up tasks, and glanceable HUD recall. | [Repo](https://github.com/qrx-joe/Rokid-MeetMemo) |
+| `rokid-jingzhai-energy-station` | `AIUI Health Game` | Gentle neck-and-shoulder relaxation game MVP for Rokid AIUI, combining safe posture exercises, light motion gameplay, and AI wellness reports. | [Repo](https://github.com/sojipi/rokid-jingzhai-energy-station) |
+| `rokid-life-danmaku-layer` | `AIUI Prototype` | Ambient life-commentary overlay prototype for Rokid Glass AIUI, simulating scene understanding, persona-driven comments, memory cues, safety controls, and recap concepts. | [Repo](https://github.com/Yrd980/rokid-life-danmaku-layer) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
@@ -149,10 +166,8 @@ Projects listed here should match at least one of these:
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 | `cafeglasspoc` | `YodaOS-Sprite POC` | Hackathon barista recipe-guidance prototype for Rokid smart glasses, using USB-C screen mirroring, transparent black background, and touchpad/tap step navigation. | [Repo](https://github.com/leopaul29/cafeglasspoc) |
 | `pua-simulator-glasses` | `Experience Prototype` | Multi-component Rokid glasses experience with first-person camera capture, cloud scene understanding, Dify agent orchestration, TTS/RTC voice interactions, and a companion web app. | [Repo](https://github.com/K-Drift/pua-simulator-glasses) |
-| `RokidInterviewCrusher` | `AIUI App` | Interview training and review assistant for Rokid AIUI, with short HUD hint cards, user-triggered recording, OpenAI-compatible model config, and structured post-interview feedback. | [Repo](https://github.com/shuyixiao-better/RokidInterviewCrusher) |
 | `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
 | `RokidGames` | `Glasses App` | Retro-style mini-game collection for Rokid Glasses with monochrome pixel art, touchpad controls, and head-tracked gameplay. | [Repo](https://github.com/ARDings/RokidGames) |
-| `Rokid_Cube_Copilot` | `AIUI App` | Rubik's Cube solving coach for Rokid single-green Micro-LED glasses, with manual color-grid input, local CFOP solving, HUD arrows, and voice/keyboard step navigation. | [Repo](https://github.com/guiguihui/Rokid_Cube_Copilot) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
@@ -208,7 +223,6 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | `rokid-hermes-connector` | `CN / Hermes Bridge` | Bridge from Rokid Glasses and Lingzhu SSE input to Home Assistant Conversation or Hermes/Rhasspy MQTT intent payloads. | [Repo](https://github.com/Hylouis233/rokid-hermes-connector) |
 | `rokid-hermes-bridge` | `CN / Hermes Bridge` | Bridge that connects Rokid AR glasses through the Lingzhu/Rizon SSE platform to a local Hermes Agent gateway, with voice dialogue, image input, context memory, and Cloudflare Tunnel deployment notes. | [Repo](https://github.com/xingdongcai/rokid-hermes-bridge) |
 | `fuluk-lingzhu` | `CN / Session Gateway Bridge` | Middleware that exposes Rokid Lingzhu custom-agent SSE and forwards voice/text requests to Fuluk Gateway's unified natural-language session API. | [Repo](https://github.com/springycloveting/fuluk-lingzhu) |
-| `Rokid-MeetMemo` | `CN / AIUI App` | Offline conversation-memory AIUI agent for Rokid AR glasses that turns spoken notes about people into relationship cards, follow-up tasks, and glanceable HUD recall. | [Repo](https://github.com/qrx-joe/Rokid-MeetMemo) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
@@ -233,7 +247,6 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
 | `client-glasses` | `OS / Firmware Tooling` | Rokid AR glasses OS and firmware tooling with Android services, capture/file sync, tracing, power and touchpad daemons, wake-word assets, and rooted firmware build scripts. | [Repo](https://github.com/jaskier-os/client-glasses) |
 | `client-phone` | `Phone Companion Tooling` | Companion Android app for the glasses + phone assistant stack, handling Bluetooth relay, backend WebSocket orchestration, chat, notifications, navigation, and WebRTC audio. | [Repo](https://github.com/jaskier-os/client-phone) |
-| `Rokid-AIUI` | `AIUI Dev Kit` | Reference kit for contract-driven AIUI agent development on Rokid AI glasses, with HUD design rules, project templates, local debug guidance, and `.aix` packaging workflow. | [Repo](https://github.com/wangqioo/Rokid-AIUI) |
 | `RokidAIGlassesUnityBridge` | `Unity Plugin` | Unity Android plugin wrapping Rokid CXR-L `client-l` so phone-based Unity apps can authenticate through Rokid AI App, capture glasses photo/audio streams, and drive CustomView UI. | [Repo](https://github.com/ARDings/RokidAIGlassesUnityBridge) |
 | `rokid-glasses-analysis` | `Research Docs` | System analysis and reverse-engineering notes for Rokid AI glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-analysis) |
 | `rokid-glasses-control` | `Control Tool` | ADB + scrcpy tooling to view and control Rokid AI glasses from macOS. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-glasses-control) |
