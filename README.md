@@ -25,7 +25,7 @@
 
 ### Table of contents
 
-[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [AIUI agents](#-aiui-agents) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [AIUI agents](#-aiui-agents) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [iOS apps](#-ios-apps) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
@@ -156,6 +156,14 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 | `rokid-ssh-terminal` | `Developer Tool` | Glasses-native SSH terminal and tmux control surface for Rokid glasses. | [Repo](https://github.com/bzerk/rokid-ssh-terminal) |
 | `photoDel4rokidglasses` | `Utility App` | Simple utility to view and delete photos or videos directly on Rokid glasses. | [Repo](https://github.com/osagem/photoDel4rokidglasses) |
 | `Rokid Manga Viewer` | `Reader App` | Manga and comic reader optimized for Rokid AR glasses, with direct ZIP loading, touchpad/DPAD/R08 controls, inverted-color mode, spread view, and saved reading progress. | [Repo](https://github.com/vyw00741/rokid-manga-viewer) |
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🍎 iOS apps
+
+| Project | Type | What it does | Link |
+| --- | --- | --- | --- |
+| `Rokid Lyrics iOS` | `iOS + Glasses` | Native SwiftUI companion for Rokid Lyrics with Spotify OAuth PKCE currently-playing lookup, synced lyrics provider fallback, local playback timeline controls, CXR-L integration, and IPA build workflows. | [Repo](https://github.com/Anezium/Rokid-Lyrics-iOS) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
