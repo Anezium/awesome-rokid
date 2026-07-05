@@ -25,7 +25,7 @@
 
 ### Table of contents
 
-[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [AIUI agents](#-aiui-agents) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [iOS apps](#-ios-apps) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
+[Why this exists](#-why-this-exists) · [Scope](#-scope) · [AI and assistants](#-ai-and-assistants) · [AIUI agents](#-aiui-agents) · [AIUI resources](#-aiui-resources) · [Translation and communication](#-translation-and-communication) · [Navigation and mobility](#-navigation-and-mobility) · [Media and utilities](#-media-and-utilities) · [iOS apps](#-ios-apps) · [Learning and experiments](#-learning-and-experiments) · [EUNG SOFT catalog](#-catalog-apps-by-eung-soft) · [Infra and bridges](#-infra-and-bridges) · [China / Lingzhu ecosystem](#-china--lingzhu-ecosystem) · [Templates and demos](#-templates-and-demos) · [Developer resources](#-developer-resources) · [Add your project](#-add-your-project)
 
 ---
 
@@ -98,6 +98,21 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 | `Rokid-MeetMemo` | `AIUI App` | Offline conversation-memory AIUI agent for Rokid AR glasses that turns spoken notes about people into relationship cards, follow-up tasks, and glanceable HUD recall. | [Repo](https://github.com/qrx-joe/Rokid-MeetMemo) |
 | `rokid-jingzhai-energy-station` | `AIUI Health Game` | Gentle neck-and-shoulder relaxation game MVP for Rokid AIUI, combining safe posture exercises, light motion gameplay, and AI wellness reports. | [Repo](https://github.com/sojipi/rokid-jingzhai-energy-station) |
 | `rokid-life-danmaku-layer` | `AIUI Prototype` | Ambient life-commentary overlay prototype for Rokid Glass AIUI, simulating scene understanding, persona-driven comments, memory cues, safety controls, and recap concepts. | [Repo](https://github.com/Yrd980/rokid-life-danmaku-layer) |
+
+<p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
+
+### 🧩 AIUI resources
+
+Official platform, documentation, tooling, and examples for building AIUI agents.
+
+| Project | Type | What it does | Link |
+| --- | --- | --- | --- |
+| `AIUI Studio (Global)` | `Platform` | Global Rizon / AIUI Studio web platform for creating and managing AIUI spaces and agents. | [Site](https://aiui-global.rokid.com/space) |
+| `AIUI Studio Changelog` | `Changelog` | Official changelog for the global AIUI Studio platform. | [Docs](https://rokid.yuque.com/ub8h5n/bkz4ul/ig3voxgii51bxlh1?singleDoc) |
+| `AIUI Technical Website` | `Documentation` | Official English technical documentation for developing AIUI apps with JavaScript and Ink on Rokid AI glasses. | [Docs](https://js.rokid.com/AIUI?lang=en-US) |
+| `jsar-project/AIUI` | `Dev Tools` | Official AIUI developer tools repository with the scaffolding CLI, packages, samples, and agent-skill resources. | [Repo](https://github.com/jsar-project/AIUI) |
+| `AIUI Dev Skill` | `Agent Skill` | AI coding assistant skill with AIUI API references, project structure guidance, and Ink SFC conventions. | [Folder](https://github.com/jsar-project/AIUI/tree/main/skills/aiui-dev) |
+| `AIUI Demo Samples` | `Samples` | Runnable AIUI sample projects and capability demos for common UI patterns and framework features. | [Folder](https://github.com/jsar-project/AIUI/tree/main/samples) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
