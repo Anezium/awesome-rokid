@@ -178,6 +178,7 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 | `rokid-music-score` | `Music Utility` | Piano score viewer packaged as an APK for Rokid RG-glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-music-score) |
 | `cafeglasspoc` | `YodaOS-Sprite POC` | Hackathon barista recipe-guidance prototype for Rokid smart glasses, using USB-C screen mirroring, transparent black background, and touchpad/tap step navigation. | [Repo](https://github.com/leopaul29/cafeglasspoc) |
 | `pua-simulator-glasses` | `Experience Prototype` | Multi-component Rokid glasses experience with first-person camera capture, cloud scene understanding, Dify agent orchestration, TTS/RTC voice interactions, and a companion web app. | [Repo](https://github.com/K-Drift/pua-simulator-glasses) |
+| `dennou-munou-yousei-roki` | `Overlay Pet App` | Tiny experimental cyber-fairy companion for Rokid glasses that lives as a small Android overlay, idles with random animations, sleeps in screen corners, and toggles on launch. | [Repo](https://github.com/tenru-do/dennou-munou-yousei-roki) |
 | `RokidSearchHelper` | `Learning App` | Android companion app for Rokid AR glasses focused on question search workflows, with robust dual-mode Bluetooth handling on newer Android builds. | [Repo](https://github.com/zxy7906052/RokidSearchHelper) |
 | `RokidGames` | `Glasses App` | Retro-style mini-game collection for Rokid Glasses with monochrome pixel art, touchpad controls, and head-tracked gameplay. | [Repo](https://github.com/ARDings/RokidGames) |
 
@@ -185,7 +186,7 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 
 ### 🏪 Catalog apps by EUNG SOFT
 
-20 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/).
+22 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/) and [GitHub app list](https://github.com/eung3392/eungsoft/tree/main/download/RokidGlasses).
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -199,12 +200,14 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 | `Rokid Connect HUD (Glasses)` | `Navigation HUD` | Glasses-side navigation HUD app for T Map and Naver Map. | [Details](https://eung.pe.kr/app-detail.html?app=RokidConnectHud2&type=RokidGlasses) |
 | `Rokid Connect HUD (Phone)` | `Phone Companion` | Phone companion app for the Rokid Connect HUD navigation workflow. | [Details](https://eung.pe.kr/app-detail.html?app=RokidConnectHud&type=RokidGlasses) |
 | `Text Translation` | `Translation App` | Offline English-Korean text translation app. | [Details](https://eung.pe.kr/app-detail.html?app=Trans&type=RokidGlasses) |
+| `Gemini Text Translate` | `Translation App` | Gemini-based online text translation app that recognizes text in the Rokid camera view and translates it into the system language. | [Details](https://eung.pe.kr/app-detail.html?app=TransG&type=RokidGlasses) |
 | `EK Zoom` | `Vision Utility` | Magnifier and telescope-style camera zoom app. | [Details](https://eung.pe.kr/app-detail.html?app=zoom&type=RokidGlasses) |
 | `EK Arrow` | `Game` | Mini archery game for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKArrow&type=RokidGlasses) |
 | `EK Find Price` | `Shopping Utility` | Takes a photo and searches Naver for matching product prices. | [Details](https://eung.pe.kr/app-detail.html?app=EKFind&type=RokidGlasses) |
 | `Matrix Vision` | `Camera Effect App` | Matrix-style visual filter app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=MatrixVision&type=RokidGlasses) |
 | `DcimWebServer` | `File Utility` | Local DCIM web server for browsing or downloading captured media from Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=DcimWebServer&type=RokidGlasses) |
 | `YourVoice` | `Voice Utility` | Voice-focused utility app for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=YourVoice&type=RokidGlasses) |
+| `Talk with Pen` | `AI Assistant` | Gemini handwriting assistant that lets users write a question on paper, scan it with the Rokid camera, and read the answer on the glasses. | [Details](https://eung.pe.kr/app-detail.html?app=TalkWithPen&type=RokidGlasses) |
 | `EK Meta Player` | `Web App Player` | Utility for running games and apps developed for Meta display on Rokid Glasses, with a built-in program list and QR-based custom app management. | [Details](https://eung.pe.kr/app-detail.html?app=EKMeta&type=RokidGlasses) |
 | `EK Timer` | `Timer Utility` | Timer utility for Rokid Glasses distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=EKTimer&type=RokidGlasses) |
 | `EK Remover` | `Utility App` | Rokid Glasses utility app distributed through the EUNG catalog. | [Details](https://eung.pe.kr/app-detail.html?app=EKRemover&type=RokidGlasses) |
