@@ -65,15 +65,18 @@ Projects listed here should match at least one of these:
 | --- | --- | --- | --- |
 | `AssistBridge` | `Phone + Glasses` | Relays visible Gemini or Google Assistant answers from an Android phone to a Rokid glasses HUD using Accessibility capture and Global Hi Rokid CXR-L. | [Repo](https://github.com/Anezium/AssistBridge) |
 | `Rokid Claude` | `Glasses + Mac Relay` | Voice-control Claude Code running on a home Mac from Rokid Glasses, with local whisper.cpp STT, WebSocket relay, streamed agent progress, and on-glasses permission confirmation. | [Repo](https://github.com/williamlzz/Rokid_Claude) |
+| `rode` | `Glasses + Backend` | Developer-focused Rokid voice-to-AI system with a native glasses recorder/HUD, self-hosted backend, whisper.cpp STT, pluggable AI brain, and SSE responses back to the glasses. | [Repo](https://github.com/Noah0025/rode) |
 | `Clawsses` | `Phone + Glasses` | Wearable AI interface for Rokid glasses powered by OpenClaw, with voice, camera, streaming chat, and TTS. | [Repo](https://github.com/dweddepohl/clawsses) |
 | `HelloRokid-v2` | `Phone + Glasses + Backend` | Business-card scanning and management system for Rokid glasses, with glasses camera capture, BLE image transfer, a phone app, and Gemini-backed analysis. | [Repo](https://github.com/saintlouisleetokyowest-bot/HelloRokid-v2) |
 | `JSOS` | `Phone + Glasses` | Development-preview spatial interface for Rokid glasses and a local or private OpenClaw Gateway, with a phone core app, dedicated glasses HUD, voice input, sessions, TTS, and camera handoff. | [Repo](https://github.com/IWhatsskill/JSOS) |
 | `Rokid AI Input Bridge` | `Phone + Glasses Prototype` | Experimental Rokid glasses and phone companion stack for Gemini-powered keyboard or voice input, glasses-side answers, calendar/mail notification context, and a small Rokid manager launcher. | [Repo](https://github.com/tenru-do/rokid-ai-input-bridge) |
+| `Rokid Camera Monitor for Gemini Live` | `Phone + Glasses` | Android phone RTMP receiver that displays a Rokid live camera stream fullscreen so Gemini Live screen sharing can see the glasses view in real time. | [Repo](https://github.com/mlustosa/Rokid_Cam_monitor_for_Gemini_Live) |
 | `openclaw-rokid` | `Glasses App` | Direct WiFi OpenClaw client for Rokid AI Glasses, focused on voice-first wearable AI without a phone bridge. | [Repo](https://github.com/etdofreshai/openclaw-rokid) |
 | `NeuroGlasses` | `Phone + Glasses` | Experimental Rokid AI chat bridge with vision, ASR, TTS, and OpenAI-compatible API support. | [Repo](https://github.com/ECHO-HELLO-WORLD424/NeuroGlasses) |
 | `Rokid_auditC_v2` | `RV101 + Backend` | Voice-powered AR quality-control system for diagnostic labs on Rokid RV101, with CXR-M, FastAPI, Whisper transcription, AI verification, HUD status, and PDF/TXT reports. | [Repo](https://github.com/Bellzum/Rokid_auditC_v2) |
 | `RokidGlassAI` | `Phone + Glasses` | Photo-based AI assistant that captures images on Rokid glasses, sends them to a phone over Bluetooth SPP, calls a vision relay, and displays paged answers on the glasses. | [Repo](https://github.com/Spphire/RokidGlassAI) |
 | `RokidAIAssistant` | `Phone + Glasses` | Open-source Android AI assistant for Rokid Glasses with voice control and intelligent query handling. | [Repo](https://github.com/zero2005x/RokidAIAssistant) |
+| `Rokid API Chatbot` | `Phone + Glasses` | Voice and vision assistant for Rokid AR glasses with phone and glasses apps, CXR/Bluetooth communication, multi-provider AI/STT support, image analysis, recording analysis, and chat history. | [Repo](https://github.com/FXMediaInternTask/Rokid-API-Chatbot) |
 | `rokid__visual_agent` | `Phone + Glasses` | CXR-based visual AI assistant for Rokid AR glasses that captures a photo and voice query, streams a vision-model answer to the HUD, and speaks it on the phone. | [Repo](https://github.com/im-sanjay-sai/rokid__visual_agent) |
 | `rokid-ar-agent` | `Server Agent` | ReAct + RAG multi-tool AI agent for Rokid AR glasses with SSE streaming output. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-ar-agent) |
 | `rokid-haitangui-agent` | `Voice Game Agent` | Voice-driven turtle soup reasoning game agent built for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-haitangui-agent) |
@@ -91,6 +94,7 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid-AIUI` | `AIUI Dev Kit` | Reference kit for contract-driven AIUI agent development on Rokid AI glasses, with HUD design rules, project templates, local debug guidance, and `.aix` packaging workflow. | [Repo](https://github.com/wangqioo/Rokid-AIUI) |
+| `RokidCard-v3` | `AIUI + Phone + Glasses` | Business-card scanning monorepo with an AIUI-hosted glasses HUD, BLE image transfer, phone-side card management, FastAPI/Gemini enrichment, and multilingual UI sync. | [Repo](https://github.com/saintlouisleetokyowest-bot/RokidCard-v3) |
 | `rokid-aiui-lab` | `AIUI Lab` | Collection of Rokid Glasses and Lingzhu AIUI experiments, including QR scanning, beginner tutorials, QR code tooling, capability probes, and field notes. | [Repo](https://github.com/saibozhanzhang/rokid-aiui-lab) |
 | `rokid_aiui_logtool` | `AIUI Tool` | Standalone AIUI logging demo that posts glasses interaction logs to a local Node.js server and displays them live in a browser via SSE. | [Repo](https://github.com/MersiSun/rokid_aiui_logtool) |
 | `Rokid_Cube_Copilot` | `AIUI App` | Rubik's Cube solving coach for Rokid single-green Micro-LED glasses, with camera scanning, local min2phase solving, HUD arrows, and voice controls. | [Repo](https://github.com/guiguihui/Rokid_Cube_Copilot) |
@@ -122,6 +126,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | --- | --- | --- | --- |
 | `rokid-ar-translator` | `Translation App` | Real-time AR translation workflow built with the Rokid Glasses SDK and LLM-based processing. | [Repo](https://github.com/Donald8511/rokid-ar-translator) |
 | `rokid-spain-trip` | `Translation App` | Real-time translation app for Rokid AR glasses, built around travel use cases such as Spain or Italy trips. | [Repo](https://github.com/etdofreshai/rokid-spain-trip) |
+| `Rokid Page Reader` | `Phone + Glasses` | Phone-as-hub page reader that asks Rokid glasses to capture an English page, sends the image to Gemini for OCR and Chinese translation, then displays the result on the phone and glasses HUD. | [Repo](https://github.com/dingling0818/rokid-page-reader) |
 | `Rokid-VideoCall` | `Communication App` | WebRTC-based remote audio and video calling system designed for Rokid Glasses. | [Repo](https://github.com/njujiangxiang/Rokid-VideoCall) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
@@ -151,6 +156,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | `Rokid Zoom Camera` | `Glasses App` | Unofficial camera prototype for Rokid Glasses with temple-swipe zoom, zoomed photo capture, and physical-button video recording. | [Folder](https://github.com/tenru-do/----/tree/main/rokid/rokid-zoom-camera) |
 | `Rokid Lyrics` | `Phone + Glasses` | Streams synced song lyrics from an Android phone to Rokid glasses over Bluetooth. | [Repo](https://github.com/Anezium/Rokid-Lyrics) |
 | `Rokid Live Studio` | `Phone + Glasses` | Streams the Rokid Glasses camera and microphone from an Android phone to YouTube or Twitch, with preview, encoding, RTMP publishing, and chat overlay support. | [Repo](https://github.com/Anezium/Rokid-Live-Studio) |
+| `ROKID DashCAM` | `Phone + Glasses` | Android companion receiver that turns a Hi Rokid custom RTMP live stream into a local wearable dashcam workflow with one-minute chunk recording and phone-side playback shortcuts. | [Repo](https://github.com/mlustosa/ROKID_DashCAM) |
 | `Rokid Relay` | `Phone + Glasses` | Forwards replyable Android phone notifications to a Rokid Glasses overlay and lets you answer from the glasses with voice input, CXR audio, and Android direct reply. | [Repo](https://github.com/Anezium/Rokid-Relay) |
 | `Tasker Bridge` | `Phone + Glasses` | Launches Android Tasker automations from a Rokid Glasses HUD, using Global Hi Rokid CXR-L for helper setup and Bluetooth for task lists and launch commands. | [Repo](https://github.com/Anezium/Tasker-Bridge) |
 | `Rokid-Scribe` | `Phone + Glasses` | Captures voice notes on Rokid glasses, syncs them to a phone, transcribes them locally, and exports transcripts as TXT or PDF. | [Repo](https://github.com/Anezium/Rokid-Scribe) |
@@ -179,6 +185,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
 | `Rokid Lyrics iOS` | `iOS + Glasses` | Native SwiftUI companion for Rokid Lyrics with Spotify OAuth PKCE currently-playing lookup, synced lyrics provider fallback, local playback timeline controls, CXR-L integration, and IPA build workflows. | [Repo](https://github.com/Anezium/Rokid-Lyrics-iOS) |
+| `RokidKeyboard` | `iOS + Glasses Input` | iPhone keyboard and touchpad companion for Rokid Glasses on YodaOS-Sprite, paired with a glasses-side BLE receiver, custom IME, accessibility cursor, and Hi Rokid-style gestures. | [Repo](https://github.com/mayacenote/RokidKeyboard) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
@@ -252,6 +259,7 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | `rokid-lingzhu-openclaw` | `CN / OpenClaw Bridge` | Lingzhu-to-OpenClaw plugin that converts Lingzhu SSE requests into OpenClaw Chat Completions and streams responses back to the glasses. | [Repo](https://github.com/Hylouis233/rokid-lingzhu-openclaw) |
 | `rokid-hermes-connector` | `CN / Hermes Bridge` | Bridge from Rokid Glasses and Lingzhu SSE input to Home Assistant Conversation or Hermes/Rhasspy MQTT intent payloads. | [Repo](https://github.com/Hylouis233/rokid-hermes-connector) |
 | `rokid-hermes-bridge` | `CN / Hermes Bridge` | Bridge that connects Rokid AR glasses through the Lingzhu/Rizon SSE platform to a local Hermes Agent gateway, with voice dialogue, image input, context memory, and Cloudflare Tunnel deployment notes. | [Repo](https://github.com/xingdongcai/rokid-hermes-bridge) |
+| `rokid-hermes` | `CN / Hermes Bridge` | FastAPI bridge that exposes Hermes Agent as a Rokid Lingzhu custom third-party agent, normalizing text/image/context payloads and streaming Rokid-compatible answer or tool-call events. | [Repo](https://github.com/RichLiao1112/rokid-hermes) |
 | `fuluk-lingzhu` | `CN / Session Gateway Bridge` | Middleware that exposes Rokid Lingzhu custom-agent SSE and forwards voice/text requests to Fuluk Gateway's unified natural-language session API. | [Repo](https://github.com/springycloveting/fuluk-lingzhu) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
