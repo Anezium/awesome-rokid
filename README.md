@@ -128,6 +128,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | `rokid-spain-trip` | `Translation App` | Real-time translation app for Rokid AR glasses, built around travel use cases such as Spain or Italy trips. | [Repo](https://github.com/etdofreshai/rokid-spain-trip) |
 | `Rokid Page Reader` | `Phone + Glasses` | Phone-as-hub page reader that asks Rokid glasses to capture an English page, sends the image to Gemini for OCR and Chinese translation, then displays the result on the phone and glasses HUD. | [Repo](https://github.com/dingling0818/rokid-page-reader) |
 | `Rokid-VideoCall` | `Communication App` | WebRTC-based remote audio and video calling system designed for Rokid Glasses. | [Repo](https://github.com/njujiangxiang/Rokid-VideoCall) |
+| `Rokid Inbox` | `Phone + Glasses` | Unified inbox for WhatsApp, Telegram, Gmail, and GitHub pull requests, with voice search and hands-free replies from the Rokid Glasses HUD. | [Repo](https://github.com/beyondlevi/rokid-inbox-app) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
