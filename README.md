@@ -221,7 +221,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 ### 🏪 Catalog apps by EUNG SOFT
 
-22 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/) and [GitHub app list](https://github.com/eung3392/eungsoft/tree/main/download/RokidGlasses).
+23 apps from the [EUNG SOFT Rokid catalog](https://eung.pe.kr/rokid/) and [GitHub app list](https://github.com/eung3392/eungsoft/tree/main/download/RokidGlasses).
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
@@ -230,6 +230,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | `TextHome` | `Launcher` | Simple text-first home launcher with wallpaper, clock, weather, battery, and text widgets. | [Details](https://eung.pe.kr/app-detail.html?app=TextHome&type=RokidGlasses) |
 | `EKReader` | `Reader App` | Clean and intuitive e-book reader for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKReader&type=RokidGlasses) |
 | `EK Live Cam` | `Camera App` | Live streaming utility for the Rokid glasses camera. | [Details](https://eung.pe.kr/app-detail.html?app=EKLiveCam&type=RokidGlasses) |
+| `EK World Radio` | `Media App` | Streams global radio stations on Rokid Glasses, resumes the last station automatically, and requires Wi-Fi. | [Details](https://eung.pe.kr/app-detail.html?app=EKWorldRadio&type=RokidGlasses) |
 | `EKHome` | `Launcher` | Custom home launcher app for Rokid Glasses. | [Details](https://eung.pe.kr/app-detail.html?app=EKHome&type=RokidGlasses) |
 | `Persona` | `Analysis App` | Face and palm reading app combining data-driven analysis with traditional references. | [Details](https://eung.pe.kr/app-detail.html?app=Persona&type=RokidGlasses) |
 | `Rokid Connect HUD (Glasses)` | `Navigation HUD` | Glasses-side navigation HUD app for T Map and Naver Map. | [Details](https://eung.pe.kr/app-detail.html?app=RokidConnectHud2&type=RokidGlasses) |
