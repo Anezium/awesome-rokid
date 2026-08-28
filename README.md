@@ -140,6 +140,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 | --- | --- | --- | --- |
 | `Rokid-GMaps` | `Phone + Glasses` | Turn-by-turn navigation for Rokid AR glasses with optional Google provider support and transit mode. | [Repo](https://github.com/Anezium/Rokid-GMaps) |
 | `Rokid-Maps` | `Phone + Glasses` | Standalone map and directions app for Rokid AI Glasses. | [Repo](https://github.com/chartmann1590/Rokid-Maps) |
+| `In The Sky - Rokid Radar` | `Phone + Glasses` | Live aircraft radar powered by OpenSky, with nearby aircraft alerts, flight details, compass-oriented tracking, and a lightweight HUD for Rokid Glasses. | [Repo](https://github.com/robhowden-sudo/InTheSky-Rokid-Radar) |
 | `rokid-ar-navigation` | `Glasses App` | Native AR navigation app for Rokid AI Glasses with nearby search, voice destination search, and walking HUD. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-ar-navigation) |
 | `M365-Rokid-HUD` | `Mobility HUD` | BLE telemetry HUD for Xiaomi M365 scooters with encrypted communication and Rokid-facing display logic. | [Repo](https://github.com/zero2005x/M365-Rokid-HUD) |
 | `RokidSmartLife` | `Glasses App` | Local life and POI navigation app for Rokid AI glasses with D-pad controls. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/RokidSmartLife) |
