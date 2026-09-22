@@ -126,6 +126,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Rokid Voice Relay` | `Nexus Plugin (Beta)` | Phone-side Nexus plugin with a persistent Telegram/WhatsApp HUD inbox and glasses-microphone voice replies. Telegram sending requires personal API credentials; WhatsApp voice replies and received-audio playback are experimental. | [Repo](https://github.com/Paradise-My-Colors/RokidVoiceRelay) |
 | `rokid-ar-translator` | `Translation App` | Real-time AR translation workflow built with the Rokid Glasses SDK and LLM-based processing. | [Repo](https://github.com/Donald8511/rokid-ar-translator) |
 | `rokid-spain-trip` | `Translation App` | Real-time translation app for Rokid AR glasses, built around travel use cases such as Spain or Italy trips. | [Repo](https://github.com/etdofreshai/rokid-spain-trip) |
 | `Rokid Page Reader` | `Phone + Glasses` | Phone-as-hub page reader that asks Rokid glasses to capture an English page, sends the image to Gemini for OCR and Chinese translation, then displays the result on the phone and glasses HUD. | [Repo](https://github.com/dingling0818/rokid-page-reader) |
@@ -153,6 +154,12 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Rokid Recorder` | `Glasses App` | Starts and stops native meeting audio recording from the glasses controls with a minimal HUD timer. Uses an internal YodaOS-Sprite service, so compatibility depends on firmware. | [Repo](https://github.com/jackytianjp/rokid-recorder) |
+| `Rokid Notification History` | `Glasses App` | Keeps up to 200 mirrored notifications in a local, scrollable history on the glasses. Requires Accessibility setup, with optional recovery after reboot. | [Repo](https://github.com/ShaBP/rokid-notification-history) |
+| `Rokid Media Viewer` | `Glasses App` | RV101 photo viewer, audio player, and media cleanup tool with deletion confirmation. Videos show thumbnails only; full storage access requires a one-time ADB grant. | [Repo](https://github.com/TakeMaruSun/rokid-media-viewer) |
+| `Rokid Glass Browser` | `Glasses + Web Remote` | Standalone RV101 browser with an iOS/Android web remote over Wi-Fi, live HUD preview, touchpad controls, and optional Gemini voice input and AI agent features. | [Repo](https://github.com/xnohat/rokid-glass-browser) |
+| `GSCP` | `Desktop / Phone Tool` | Combines glasses camera, HUD, and audio streams for viewing on Windows, macOS, Linux, or Android. Supports desktop USB/Wi-Fi connections; Android viewing requires initial desktop setup. | [Repo](https://github.com/tonytsangzen/gscp) |
+| `Rokid To Do` | `Nexus Plugin` | Phone-side Nexus plugin with persistent tasks, glasses HUD navigation, and voice-based task creation and queries using the glasses microphone and a personal Gemini API key. | [Repo](https://github.com/Paradise-My-Colors/RokidToDo) |
 | `R08-Access-Bridge` | `Phone + Glasses` | Uses the R08 smart ring as a navigation controller for Rokid Glasses, bridging ring input into glasses-friendly controls. | [Repo](https://github.com/Anezium/R08-Access-Bridge) |
 | `Rokid-APKs` | `Phone + Glasses` | Installs Android APKs on Rokid glasses from a phone using CXR-M, Hi Rokid CXR-L, Bluetooth SPP, or Wi-Fi LAN transfer modes. | [Repo](https://github.com/Anezium/Rokid-APKs) |
 | `RokidBrew` | `Phone App` | Community app store for Rokid AR glasses, with browsing, app details, update tracking, and install flows for phone, glasses, and combo apps. | [Repo](https://github.com/Anezium/RokidBrew) |
@@ -205,6 +212,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Rokid Scan Vision` | `Glasses Prototype` | Standalone CameraX and EfficientDet Lite object detection running locally on the glasses, with calibrated numbered HUD targets and no phone detection pipeline. | [Repo](https://github.com/robhowden-sudo/Rokid-Scan-Vision) |
 | `Memora_rokid` | `Learning App` | Immersive language learning app for Rokid glasses with HUD study flows and AI-assisted memory tools. | [Repo](https://github.com/e7naq3y/Memora_rokid) |
 | `Rokid-DragonBallScouter` | `Glasses App` | Dragon Ball inspired scouter HUD with live face lock, pseudo-AR mode, and battle power reveal. | [Repo](https://github.com/Anezium/Rokid-DragonBallScouter) |
 | `rokid-lc-hot100` | `Learning App` | Offline LeetCode Hot100 study assistant designed for Rokid AR glasses. | [Folder](https://github.com/bcefghj/rokid-collection/tree/main/rokid-lc-hot100) |
@@ -300,6 +308,7 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `rokid-yoda` | `Development Workspace` | RV101/YodaOS-Sprite research notes, CXR SDK documentation, a starter HUD app, and phone/glasses Home Assistant voice-control examples requiring a separate backend. | [Repo](https://github.com/Youfengxu/rokid-yoda) |
 | `EUNG SOFT Web Install` | `Web Installer` | Browser-based WebUSB installer for APK sideloading, plus file upload helpers for apps like EK Reader, TextHome, and EK Word Up. | [Site](https://eung.pe.kr/web-install/) |
 | `client-glasses` | `OS / Firmware Tooling` | Rokid AR glasses OS and firmware tooling with Android services, capture/file sync, tracing, power and touchpad daemons, wake-word assets, and rooted firmware build scripts. | [Repo](https://github.com/jaskier-os/client-glasses) |
 | `client-phone` | `Phone Companion Tooling` | Companion Android app for the glasses + phone assistant stack, handling Bluetooth relay, backend WebSocket orchestration, chat, notifications, navigation, and WebRTC audio. | [Repo](https://github.com/jaskier-os/client-phone) |
