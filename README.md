@@ -71,6 +71,7 @@ Projects listed here should match at least one of these:
 | `Clawsses` | `Phone + Glasses` | Wearable AI interface for Rokid glasses powered by OpenClaw, with voice, camera, streaming chat, and TTS. | [Repo](https://github.com/dweddepohl/clawsses) |
 | `HelloRokid-v2` | `Phone + Glasses + Backend` | Business-card scanning and management system for Rokid glasses, with glasses camera capture, BLE image transfer, a phone app, and Gemini-backed analysis. | [Repo](https://github.com/saintlouisleetokyowest-bot/HelloRokid-v2) |
 | `JSOS` | `Phone + Glasses` | Development-preview spatial interface for Rokid glasses and a local or private OpenClaw Gateway, with a phone core app, dedicated glasses HUD, voice input, sessions, TTS, and camera handoff. | [Repo](https://github.com/IWhatsskill/JSOS) |
+| `ClawLensXR` | `Phone + Glasses · Commercial` | Closed-source Android companion and Rokid HUD for your own OpenClaw Gateway: voice input, streamed replies, camera-to-assistant, TTS, and captions. Paid membership (€3.99/month or €99 lifetime) with a free 3-month tester plan; registration and an active entitlement are required. Not reviewed by this list. | [Website](https://clawlensxr.com/) · [Demo](https://www.youtube.com/shorts/NCn8cnS70ys) |
 | `Rokid AI Input Bridge` | `Phone + Glasses Prototype` | Experimental Rokid glasses and phone companion stack for Gemini-powered keyboard or voice input, glasses-side answers, calendar/mail notification context, and a small Rokid manager launcher. | [Repo](https://github.com/tenru-do/rokid-ai-input-bridge) |
 | `Rokid Camera Monitor for Gemini Live` | `Phone + Glasses` | Android phone RTMP receiver that displays a Rokid live camera stream fullscreen so Gemini Live screen sharing can see the glasses view in real time. | [Repo](https://github.com/mlustosa/Rokid_Cam_monitor_for_Gemini_Live) |
 | `openclaw-rokid` | `Glasses App` | Direct WiFi OpenClaw client for Rokid AI Glasses, focused on voice-first wearable AI without a phone bridge. | [Repo](https://github.com/etdofreshai/openclaw-rokid) |
@@ -345,6 +346,8 @@ Pull requests are welcome. If you built something for Rokid glasses, open a PR a
 ```md
 | `Project Name` | `Type` | One short sentence explaining what it does. | [Repo](https://github.com/you/project) |
 ```
+
+**Commercial or closed-source projects** are welcome as long as the row says so: add `· Commercial` to the Type, state the pricing model in one clause, and link something verifiable (store page, product site with a demo, or a releases repo). Entries are listed as-is and are not reviewed or endorsed.
 
 **Bonus points if your repo includes:**
 
