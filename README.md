@@ -366,3 +366,7 @@ If you know a Rokid project that belongs here and it is not listed yet:
 2. or open an issue with the repo link
 
 The goal is simple: make `awesome-rokid` the best starting point for exploring the Rokid app ecosystem.
+
+## License
+
+This list is licensed under [CC BY 4.0](LICENSE). You are free to share and adapt it with attribution to Anezium.
