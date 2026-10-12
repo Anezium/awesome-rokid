@@ -99,6 +99,8 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `NFL Live` | `AIUI App` | Read-only NFL scores, schedules, AFC/NFC standings, and quarter-by-quarter details from ESPN public feeds, with four interface languages; physical glasses testing remains pending. | [Repo](https://github.com/BreezeLife/AIUI-NFLLive) · [AIX](https://raw.githubusercontent.com/BreezeLife/AIUI-NFLLive/main/artifacts/nfl-live-en-ja-ko-zh.aix) |
+| `AIR WX` | `AIUI App` | Airport METAR/TAF viewer using NOAA AviationWeather.gov, nearby stations, and custom ICAO lists; physical glasses compatibility remains unconfirmed, and it is not an approved flight-briefing system. | [Repo](https://github.com/BreezeLife/AIUI-AirportWeather) · [AIX](https://raw.githubusercontent.com/BreezeLife/AIUI-AirportWeather/main/artifacts/air-wx-en-ja-ko-zh.aix) |
 | `RepairLens` | `AIUI Prototype + Backend` | Hands-free field-service demo for AIUI 0.17 with a Nebius-compatible backend and a fixed HVAC example; the Android/CXR-S fallback is documented but not activated. | [Repo](https://github.com/BreezeLife/repairlens-aiui) |
 | `aka-rokid-aiui` | `AIUI Diagnostics + Prototypes` | Source monorepo of connection and device-capability diagnostics plus camera experiments; Hermes integration remains a future-client skeleton, and .aix packages are built in Studio. | [Repo](https://github.com/BakaAkari/aka-rokid-aiui) |
 | `AstrBot Rokid` | `AIUI Client + AstrBot Bridge` | Paired AIUI client and AstrBot backend plugin with voice input, camera/vision requests, streamed HUD replies, history, pairing, and local TTS; both repositories are required. | [Client](https://github.com/Xhan258/rokid_aiui_astrbot_client) · [Bridge](https://github.com/Xhan258/astrbot_plugin_rokid_bridge) |
@@ -140,6 +142,8 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `EchoLens` | `Phone + Glasses Accessibility Prototype` | Live captions with speaker separation for deaf and hard-of-hearing shop staff, plus order cards, customer-facing text, menu Q&A, and local sound alerts; requires personal service credentials, with hardware compatibility still to confirm. | [Repo](https://github.com/alextangson/echolens) |
+| `Rokid Project / Speak Translate` | `YodaOS-Sprite AIUI Apps` | Korean speech-to-English, Chinese, or French translation for display-equipped Rokid glasses, with Korean menus and an optional Hangul reading aid for French; speech, translation, and physical controls remain unverified on real glasses. | [Repo](https://github.com/Bluear7878/Rokid_project) |
 | `Rokid Focus` | `Phone + Glasses` | AR conversation assistant with phone/glasses microphone lanes, live transcription, translation, reply suggestions, and a daily-priority HUD; uses external ASR and AI services. | [Repo](https://github.com/Gchen0124/rokid-focus) |
 | `Rokid Social Hub` | `Glass3 + Phone Prototype` | Bluetooth messaging companion for Glass3 with WhatsApp/Telegram notification history and replies; phone-side messaging is validated, while the glasses client still needs hardware validation. | [Repo](https://github.com/fardos4de/RokidSocialHubCompanion) · [CI builds](https://github.com/fardos4de/RokidSocialHubCompanion/actions) |
 | `Lumen Telegram` | `Lumen Web App` | Telegram client for Rokid Lumen with chats, media, voice notes, and reactions over MTProto; requires the Lumen platform and the user's own Telegram API credentials. | [Repo](https://github.com/beyondlevi/lumen-telegram) · [Lumen packages](https://github.com/beyondlevi/lumen-telegram/releases) |
@@ -159,6 +163,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Peak Now` | `AIUI App (Preview)` | Nearby mountain names, approximate bearings, straight-line distances, and elevations from OpenStreetMap, with offline area caching and four languages; direction sensing and physical glasses behavior still need validation. | [Repo](https://github.com/BreezeLife/AIUI-PeakNow) · [AIX preview](https://github.com/BreezeLife/AIUI-PeakNow/releases/tag/v1.0.0-preview.1) |
 | `RideFlux` | `RV101 + Phone Mobility HUD` | Electric-unicycle BLE dashboard with speed, battery, temperature, alerts, trip recording, and a Rokid HUD; developed and tested with RV101 and a Begode A2. | [Repo](https://github.com/zero2005x/RideFlux) · [APKs](https://github.com/zero2005x/RideFlux/releases) |
 | `Rokid-GMaps` | `Phone + Glasses` | Turn-by-turn navigation for Rokid AR glasses with optional Google provider support and transit mode. | [Repo](https://github.com/Anezium/Rokid-GMaps) |
 | `Rokid-Maps` | `Phone + Glasses` | Standalone map and directions app for Rokid AI Glasses. | [Repo](https://github.com/chartmann1590/Rokid-Maps) |
@@ -175,6 +180,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Rokid Phone Mirroring` | `Phone + Glasses` | Encrypted local-network Android screen/app mirroring with H.264 decoding, zoom/pan, pointer controls, and an extended workspace; sustained playback is documented on RG-glasses with a Galaxy S25. | [Repo](https://github.com/pcoronaf/Rockid-mirror) · [APKs (CI snapshot)](https://github.com/Anezium/RokidBrew-Registry/releases/tag/rokid-phone-mirroring-ci-769b216) · [Upstream CI](https://github.com/pcoronaf/Rockid-mirror/actions) |
 | `RokidLab` | `Phone Companion + Bundled Glasses App` | Android control center for Rokid glasses with AI voice/vision, RokidBrew app management, two-way mirroring, files, ADB/shell tools, and Bluetooth HID; bundles the RokidLink glasses helper. | [Repo](https://github.com/mdloverm/RokidLab) · [APKs](https://github.com/mdloverm/RokidLab/releases) |
 | `Warlock Camera` | `RV101 Camera App` | Native Camera2 photo/video recorder with configurable preview and temple-button controls; includes a public APK, while physical RV101 validation is not established in the README. | [Repo](https://github.com/Warlock94/WarlockCamera) · [APK](https://raw.githubusercontent.com/Warlock94/WarlockCamera/main/apk/WarlockCamera2_RV101_v2.6.1.apk) |
 | `Pocket Web` | `RV101 / Glass3 Browser Prototype` | Standalone WebView browser that converts page content into HUD cards and adds temple/head-gesture navigation; complex sites and firmware-specific controls still need validation. | [Repo](https://github.com/MojangRG/rokid-pocket-web) · [CI builds](https://github.com/MojangRG/rokid-pocket-web/actions) |
