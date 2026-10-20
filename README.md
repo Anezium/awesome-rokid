@@ -142,6 +142,7 @@ Official platform, documentation, tooling, and examples for building AIUI agents
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `AccuNote` | `Android + Glasses · Commercial` | Records with the Rokid glasses microphone, displays live captions with a captions-only mode, and saves glasses photos as recording marks; free plan with optional paid subscriptions. | [Google Play](https://play.google.com/store/apps/details?id=ai.accunote.accunote) |
 | `EchoLens` | `Phone + Glasses Accessibility Prototype` | Live captions with speaker separation for deaf and hard-of-hearing shop staff, plus order cards, customer-facing text, menu Q&A, and local sound alerts; requires personal service credentials, with hardware compatibility still to confirm. | [Repo](https://github.com/alextangson/echolens) |
 | `Rokid Project / Speak Translate` | `YodaOS-Sprite AIUI Apps` | Korean speech-to-English, Chinese, or French translation for display-equipped Rokid glasses, with Korean menus and an optional Hangul reading aid for French; speech, translation, and physical controls remain unverified on real glasses. | [Repo](https://github.com/Bluear7878/Rokid_project) |
 | `Rokid Focus` | `Phone + Glasses` | AR conversation assistant with phone/glasses microphone lanes, live transcription, translation, reply suggestions, and a daily-priority HUD; uses external ASR and AI services. | [Repo](https://github.com/Gchen0124/rokid-focus) |
