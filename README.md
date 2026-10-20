@@ -99,6 +99,7 @@ AIUI projects that run as Rokid/Lingzhu `.aix` agents or help build and debug th
 
 | Project | Type | What it does | Link |
 | --- | --- | --- | --- |
+| `Rokid Muse AIUI` | `AIUI App + BLE Pairing` | Experimental Meta Muse integration with voice input, streaming Markdown replies, an animated pixel avatar, and native BLE pairing; requires a Muse SDK token and Rokid phone connection, with broader device compatibility still being tested. | [Repo](https://github.com/Eis4TY/rokid-muse-aiui) |
 | `NFL Live` | `AIUI App` | Read-only NFL scores, schedules, AFC/NFC standings, and quarter-by-quarter details from ESPN public feeds, with four interface languages; physical glasses testing remains pending. | [Repo](https://github.com/BreezeLife/AIUI-NFLLive) · [AIX](https://raw.githubusercontent.com/BreezeLife/AIUI-NFLLive/main/artifacts/nfl-live-en-ja-ko-zh.aix) |
 | `AIR WX` | `AIUI App` | Airport METAR/TAF viewer using NOAA AviationWeather.gov, nearby stations, and custom ICAO lists; physical glasses compatibility remains unconfirmed, and it is not an approved flight-briefing system. | [Repo](https://github.com/BreezeLife/AIUI-AirportWeather) · [AIX](https://raw.githubusercontent.com/BreezeLife/AIUI-AirportWeather/main/artifacts/air-wx-en-ja-ko-zh.aix) |
 | `RepairLens` | `AIUI Prototype + Backend` | Hands-free field-service demo for AIUI 0.17 with a Nebius-compatible backend and a fixed HVAC example; the Android/CXR-S fallback is documented but not activated. | [Repo](https://github.com/BreezeLife/repairlens-aiui) |
