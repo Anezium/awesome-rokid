@@ -373,6 +373,7 @@ Projects built around the Chinese Rokid Lingzhu platform. These may not work on 
 | `RokidLiveView` | `RV101 + macOS` | macOS recorder and compositor that combines the RV101 camera stream and HUD display through ADB and scrcpy to approximate the wearer view. | [Repo](https://github.com/hacha/RokidLiveView) |
 | `rokid-private-tts-kit` | `Android Library` | Reusable Android client for the private Rokid Glasses TTS binder, with a minimal sample app for bind, speak, and stop checks. | [Repo](https://github.com/bzerk/rokid-private-tts-kit) |
 | `rokid-docs` | `Documentation` | Community-maintained Rokid development docs covering SDKs, internals, hardware notes, and reverse-engineered references. | [Repo](https://github.com/buildwithfenna/rokid-docs) |
+| `smart-glasses-rokid` | `Agent Skill` | Coding-agent skill for Android phone apps that show text on Rokid Glasses and read their microphone with CXR-L through Hi Rokid, written from Rokid's docs and not yet tested on hardware. | [Folder](https://github.com/hinty-eu/smart-glasses-skills/tree/main/skills/smart-glasses-rokid) · [Repo](https://github.com/hinty-eu/smart-glasses-skills) |
 
 <p align="right"><a href="#table-of-contents">⬆ back to top</a></p>
 
